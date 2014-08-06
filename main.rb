@@ -1,1 +1,1 @@
-puts 'I am so stupid!'
+(1..1000).each {|x| print "#{x} "}
