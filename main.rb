@@ -1,1 +1,1 @@
-puts "fuck you\n"
+puts 'I am so stupid!'
